@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 👋 I’m Cedric Le Denmat @ledenmat
+- 👀 I’m interested in Networking and Distributed Computing
+- 🌱 I’m currently a junior studying Electrical and Computer Engineering at The Ohio State University
+- 💞️ I’m looking to collaborate on any of the projects on my profile 😂
+- 📫 How to reach me: through my profile email
+- 💼 I'm currently looking for Summer 2023 internships! Previously worked as a Software Engineer Intern for Disney in Seattle!
 
 <!--
 **ledenmat/ledenmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
