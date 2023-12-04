@@ -2,7 +2,7 @@
 - 👋 I’m Cedric Le Denmat @ledenmat
 - 🌱 I’m currently a master's student studying Electrical and Computer Engineering at The Ohio State University
 - 📫 How to reach me: through my profile email
-- 💼 I'm currently looking for Summer 2024 internships. Previously worked twice as a Software Engineer Intern for Disney in Seattle!
+- 💼 I'm returning in summer 2024 as a Software Engineer Intern for Disney in Seattle
 
 <!--
 **ledenmat/ledenmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
