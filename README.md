@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 👋 I’m Cedric Le Denmat @ledenmat
-- 🌱 I’m currently a master's student studying Electrical and Computer Engineering at The Ohio State University
+- 💼 I’m currently a Senior Machine Learning Engineer at The Walt Disney Company
 - 📫 How to reach me: through my profile email
-- 💼 I'm a Graduate AI/ML intern for Disney
 
 <!--
 **ledenmat/ledenmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
