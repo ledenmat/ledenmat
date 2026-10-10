@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 I’m Cedric Le Denmat @ledenmat
-- 💼 I’m currently a Senior Machine Learning Engineer at The Walt Disney Company
+- 💼 I’m currently a Senior Machine Learning Engineer at a Fortune 50 company
 - 📫 How to reach me: through my profile email
 
 <!--
